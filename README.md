@@ -12,6 +12,7 @@ I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven 
 * Conduct data scraping from social media and online news sources.
 * Apply statistical and machine learning techniques for data analysis.
 * Support research through data collection and analysis, contributing to research publications.
+
 **Data Analyst – Part time** | *Research, Publication, & Community Services Unit* | Feb. 2024 - Present
 * Managed publication, research, and community service data for over 200 FMIPA UGM faculty, staff, students, and external affiliates, resulting in data request efficiency.
 * Initiated data mining techniques (Google Scholar Web Scraping) to retrieve faculty publication data, reducing documentation time from ~10 minutes to 1 minute, Achieving total over 1500 publications effectively.
