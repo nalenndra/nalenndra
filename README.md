@@ -1,8 +1,7 @@
 
-# Hello! My name is Mahardi Nalendra Syafa
+# Hi!!!
 
-
-## 🚀 About Me
+## 🧒🏻 About Me
 I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven and enthusiastic learner with diverse experiences in Statistics, Data Analytics, and Data Science, I am eager to continue expanding my knowledge and skill. With a strong career interest in Data Science & Analytics fields. A flexible go-getter with a growth mindset and analytical thinking to contribute to make a meaningful impact in any professional setting.
 
 
@@ -28,9 +27,9 @@ I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven 
 
 
 ## 🛠 Skills
-* Technical Skills 	: Statistical Analysis, Machine Learning, Data Processing, Business Analysis
-* Soft Skills 	: Analytical thinking, Attention to detail, Teamwork, Problem Solving, Communication
-* Tools	: R, Python, PostgreSQL, Tableau, Looker Studio, Excel, SPSS, Minitab
+* *Technical Skills* 	: Statistical Analysis, Machine Learning, Data Processing, Business Analysis
+* *Soft Skills* 	: Analytical thinking, Attention to detail, Teamwork, Problem Solving, Communication
+* *Tools*	: R, Python, PostgreSQL, Tableau, Looker Studio, Excel, SPSS, Minitab
 
 
 
