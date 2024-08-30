@@ -28,16 +28,16 @@ I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven 
 
 
 ## 🛠 Skills
-* Technical Skills 	: Statistical Analysis, Machine Learning, Data Processing, Business Analysis \\
-* Soft Skills 	: Analytical thinking, Attention to detail, Teamwork, Problem Solving, Communication \\
-* Tools	: R, Python, PostgreSQL, Tableau, Looker Studio, Excel, SPSS, Minitab \\
+* Technical Skills 	: Statistical Analysis, Machine Learning, Data Processing, Business Analysis
+* Soft Skills 	: Analytical thinking, Attention to detail, Teamwork, Problem Solving, Communication
+* Tools	: R, Python, PostgreSQL, Tableau, Looker Studio, Excel, SPSS, Minitab
 
 
 
 
 
 ## 🚀 How to reach me
-Email : mahardinalendra@gmail.com
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahardinalendra/)
+Email : mahardinalendra@gmail.com \
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahardinalendra/)\
 [![twitter/X](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](hhttps://x.com/mahardinalen)
 
