@@ -1,5 +1,5 @@
 
-# Hi!!!
+# Hi!!! I'm Mahardi Nalendra Syafa
 
 ## 🧒🏻 About Me
 I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven and enthusiastic learner with diverse experiences in Statistics, Data Analytics, and Data Science, I am eager to continue expanding my knowledge and skill. With a strong career interest in Data Science & Analytics fields. A flexible go-getter with a growth mindset and analytical thinking to contribute to make a meaningful impact in any professional setting.
@@ -19,8 +19,8 @@ I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven 
 * Developed a Looker Studio dashboard integrated with a database and a data pipeline, showcasing the publication profiles 
 
 **Business Development Data Analyst Intern** | *PT. Saraswanti Utama* | Jul. 2024 - Aug. 2024
-•	Developed real-time dashboard for daily spare parts stock monitoring, updating data from 4 factories with over 400 employee. 
-•	Created a GLM-Gamma model to assess the impact of spare parts maintenance on the revenue of 4 Saraswanti companies (APM, APL, SAM, DAL) from 2021-2023. The model was approved and adopted for data-driven maintenance policies.
+*	Developed real-time dashboard for daily spare parts stock monitoring, updating data from 4 factories with over 400 employee. 
+*	Created a GLM-Gamma model to assess the impact of spare parts maintenance on the revenue of 4 Saraswanti companies (APM, APL, SAM, DAL) from 2021-2023. The model was approved and adopted for data-driven maintenance policies.
 
 
 
