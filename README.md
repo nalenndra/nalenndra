@@ -31,5 +31,5 @@ I'm a Junior Year Statistics Undergraduate at Universitas Gadjah Mada. A driven 
 ## 🚀 How to reach me
 Email : mahardinalendra@gmail.com \
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahardinalendra/)\
-[![twitter/X](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](hhttps://x.com/mahardinalen)
+[![twitter/X](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mahardinalen)
 
